@@ -61,6 +61,21 @@ h1 a:hover, h2 a:hover {
     vertical-align: middle;
 }
 
+
+.links {
+    float: right;
+    margin-right: 150px;
+    margin-top: 4px;
+    font-size: 25px;
+    vertical-align: middle;
+    line-height: normal;
+}
+.links a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
 #content {
     margin: 40px 0 0 0;
 }
