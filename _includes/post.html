@@ -18,3 +18,13 @@
   </div>
 
 </div>
+{% if content %}
+<div class="article-author">
+    <img width="50" height="50" src="https://gravatar.com/avatar/28d7dcf5ee6718ea6de4b077ac3159a7?s=50" alt="{{ post.author }} Avatar"/>
+    <span class="name">
+        Assembled by <b>Lauris</b> &ndash; Co-founder at
+        <a href="http://datazenit.com"
+           title="Easy to use web application for editing, visualizing and sharing data.">Datazenit</a>.
+    </span>
+</div>
+{% endif %}
