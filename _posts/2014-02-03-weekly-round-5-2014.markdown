@@ -1,0 +1,13 @@
+---
+layout: post
+title: Weekly round-up (#5/2014)
+---
+Random news, blog posts or Github projects from last week.
+
+* [How I Lost My $50,000 Twitter Username](https://medium.com/p/24eb09e026dd) -- last week's most viral article. I don't think it was possible to miss this one.  
+* [How In-app Purchases Have Destroyed The Industry](http://www.baekdal.com/opinion/how-inapp-purchases-has-destroyed-the-industry/).  
+* [Achievements for your team](https://hiburo.com/blog/2014/01/28/achievements/) -- Sasha wrote an article about one of the most interesting features of Hiburo -- achievements.  
+* [Lenovo to buy Google's Motorola in China's largest tech deal](http://www.reuters.com/article/2014/01/29/us-google-lenovo-idUSBREA0S1YN20140129) -- Not so good news, because I really liked the new Motorola Moto series. 
+
+<blockquote class="twitter-tweet" lang="en"><p>Schrödinger&#39;s cat applied to web development: If I don&#39;t look at it in Internet Explorer then there&#39;s a chance it looks fine.</p>&mdash; Datazenit Sensei (@datazenit) <a href="https://twitter.com/datazenit/statuses/428860122584997888">January 30, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

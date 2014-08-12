@@ -1,0 +1,14 @@
+---
+layout: post
+title: Weekly round-up (#2/2014)
+---
+This week we released first article about Datazenit -- [Visualization early preview](http://datazenit.com/blog/2014/01/10/visualization-early-preview/). We have also decided about Hiburo launch date. If everything goes according to the plan, Hiburo will go into a stable version next Monday, January 13th. A full release will be published on [Hiburo blog](https://hiburo.com/blog/).
+
+Below you can find weekly dose of interesting links:
+
+* [Light Table is open source](http://www.chris-granger.com/2014/01/07/light-table-is-open-source/);  
+* [4k is for programmers](http://tiamat.tsotech.com/4k-is-for-programmers) -- controversial article about monitors;  
+* [Python code to solve xkcd 1313](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb);
+* [SSL/TLS analysis of the top 1,000,000 websites](https://jve.linuxwall.info/blog/index.php?post/TLS_Survey);
+* [SQLSoup](https://pypi.python.org/pypi/sqlsoup) --  a database access tool for SQLAlchemy which provides a convenient way to access existing database tables without having to declare table classes;  
+* [Django SQL Explorer](https://github.com/epantry/django-sql-explorer) -- Django package to easily share data via SQL queries;

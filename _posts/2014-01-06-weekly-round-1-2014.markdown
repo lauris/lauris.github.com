@@ -1,0 +1,12 @@
+---
+layout: post
+title: Weekly round-up (#1/2014)
+---
+Holiday season is over, now I am back to work. January is going to be interesting -- [Janis](https://twitter.com/cimbisj), an old friend of mine, has joined our team as an intern. He will be working with us on [Datazenit project](http://datazenit.com) for a whole month. Another important event is coming very soon - we are launching [Hiburo](https://hiburo.com) this month. Excitement is building!
+
+* [SnapchatDB](http://www.snapchatdb.info/) -- This database contains username and phone number pairs of a vast majority of the Snapchat users.
+* [Mezazzine 3 was released](https://groups.google.com/forum/#!topic/django-users/xTA9VPcp8uM).  
+* [GGPlot for Python](https://github.com/yhat/ggplot) + [related blog post](http://blog.yhathq.com/posts/ggplot-for-python.html).
+* [The Micro Python project](https://github.com/micropython/micropython) -- Python 3.x on a microcontroller.  
+* [Hilarious Microsoft support article](http://support.microsoft.com/kb/168702) -- "If you move your mouse pointer continuously while the data is being returned to Microsoft Excel, the query may not fail. Do not stop moving the mouse until all the data has been returned to Microsoft Excel."
+* [DigitalOcean leaks customer data between VMs](https://github.com/fog/fog/issues/2525).

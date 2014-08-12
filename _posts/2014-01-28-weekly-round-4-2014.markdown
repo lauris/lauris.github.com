@@ -1,0 +1,16 @@
+---
+layout: post
+title: Weekly round-up (#4/2014)
+---
+Last week we designed new Datazenit t-shirts and they look pretty awesome if you ask me. Preview below.
+
+[![Datazenit T-Shirt Preview](/images/blog/t-shirts-preview-510.jpg)](/images/blog/t-shirts-preview.png)
+
+Random news, blog posts or Github projects from last week.
+
+* [Instantga.me](http://www.instantga.me/) -- collection of many simple flash games to quickly waste some time.  
+* [Beer vs Coffee](http://en.ilovecoffee.jp/posts/view/79) -- infographic based on [Coffee vs. Beer: Which drink makes you more creative?](https://medium.com/what-i-learned-today/f7fcb3b786b1).  
+* [Revolution in Kiev, Ukraine](http://zyalt.livejournal.com/984735.html).
+* [Bill Gates loses in 9 moves to chess champion](http://www.youtube.com/watch?v=84NwnSltHFo) -- world chess champion Magnus Carlsen took just nine moves to checkmate Bill Gates.  
+* [Your best passive income?](https://news.ycombinator.com/item?id=7094402) -- interesting HackerNews discussion about sources of passive income.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) -- A boilerplate for Node.js web applications.

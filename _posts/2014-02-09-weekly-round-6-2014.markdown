@@ -1,0 +1,14 @@
+---
+layout: post
+title: Weekly round-up (#6/2014)
+---
+This week was full of surprises! Hiburo got interviewed by [ArcticStartup](http://arcticstartup.com/). Unusually high amount of subscribers joined [Datazenit Beta List](http://datazenit.us3.list-manage1.com/subscribe?u=761f26cca592fe1c3544bd29e&id=8255d6bcc1). We also decided to offer a standalone version of Datazenit (in addition to cloud based version). It means that users will be able to use it locally or on their own servers – more on this in an upcoming blog article. Also all of Datazenit t-shirts ended – they went to early adopters and friends. If you missed a chance to get one, there will be a new batch of t-shirts at the end of beta period. 
+
+**Interesting news, blog posts or Github projects from last week.**  
+
+* [Debian 7.4 Released](http://www.debian.org/News/2014/20140208) -- my favorite Linux distro got an update.  
+* [Total security in a PostgreSQL database](http://www.ibm.com/developerworks/library/os-postgresecurity/) -- the challenges of protecting PostgreSQL database server.  
+* [Drone](https://github.com/drone/drone) -- Continuous Integration platform built on Docker.  
+* [How I hacked Github again](http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html) -- Egor Homakov gains access to private repositories on Github.  
+* [Microsoft CEO](http://www.microsoft.com/en-us/news/ceo/index.html) -- Satya Nadella becomes the third CEO of Microsoft.  
+* [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) -- Collection of random tips for Amazon Web Services.  

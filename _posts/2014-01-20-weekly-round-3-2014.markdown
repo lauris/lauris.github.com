@@ -1,0 +1,16 @@
+---
+layout: post
+title: Weekly round-up (#3/2014)
+---
+Last week was awesome, we finally launched [Hiburo](https://hiburo.com). The launch actually means that we are going to shift our focus to [Datazenit](http://datazenit.com). We will be working to extend customer base for Hiburo, but most of development time will be spent on Datazenit. 
+
+* [Hiburo is ready](https://hiburo.com/blog/2014/01/13/hiburo-ready/) -- launch blog post.  
+* [Windows 3.1 written in JS/HTML](https://news.ycombinator.com/item?id=7080075) -- sadly the main site is down now, but I have linked related topic on HackerNews.  
+* [Strangest language feature](http://stackoverflow.com/questions/1995113/strangest-language-feature) -- StackOverflow topic.  
+* [Conway's Game Of Life in APL](http://www.youtube.com/watch?v=a9xAKttWgP4) -- simply amazing.    
+* [Go by Example](https://gobyexample.com/) -- hands-on introduction to Go using annotated example programs.  
+* [Grow to Greatness](https://www.coursera.org/course/growtogreatness) -- Coursera course about private business growth challenges.    
+* [Building an open source Nest](http://blog.spark.io/2014/01/17/open-source-thermostat/) -- Hint: it's not going to cost $3.2bn.  
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Today is our launch day and we are feeling frisky <a href="https://t.co/XFukQRmBcc">https://t.co/XFukQRmBcc</a> <a href="http://t.co/wILW5EGYFR">pic.twitter.com/wILW5EGYFR</a></p>&mdash; Hiburo (@hiburo) <a href="https://twitter.com/hiburo/statuses/422658863935266816">January 13, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

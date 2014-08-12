@@ -1,0 +1,20 @@
+<div class="entry">
+
+	<div class="entry-content">
+
+	  <header>
+	    <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	    <p class="entry-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+	  </header>
+
+	  <article class="entry-body">
+	  	{% if content %}
+	  		{{ content }}
+  		{% else %}
+	  		{{ page.content }}
+  		{% endif %}
+	  </article>
+
+  </div>
+
+</div>

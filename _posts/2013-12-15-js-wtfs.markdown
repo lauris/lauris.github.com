@@ -1,0 +1,13 @@
+---
+layout: post
+title: JS WTFs
+---
+Today we are going to flog a dead horse. Over the time I have bookmarked several JS WTFs and would like to share some of the best ones. Javascript can never stop to amaze people. 
+
+Alerts "fail". Read [why this works](http://stackoverflow.com/questions/4170978/explain-why-this-works?lq=1). Another similar [StackOverflow topic](http://stackoverflow.com/questions/7202157/can-you-explain-why-10).
+
+{% highlight js %}
+alert((![]+[])[+[]]+(![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]);
+{% endhighlight %}
+
+Obligatory link: [WAT Talk](https://www.destroyallsoftware.com/talks/wat).
