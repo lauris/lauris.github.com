@@ -9,4 +9,4 @@ github_username:  lauris
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: pretty
