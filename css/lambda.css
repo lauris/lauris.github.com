@@ -26,6 +26,9 @@ h1 a, h2 a {
 h1 a:hover, h2 a:hover {
     text-decoration: underline;
 }
+em {
+    font-style: italic;
+}
 
 .wrapper {
     width: 980px;
