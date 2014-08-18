@@ -4,7 +4,7 @@ title: "5 Productivity Tips for Developers"
 category: productivity
 ---
 
-There are plenty of productivity tips online and some of them are good, some of them are not, but I wanted to create a list of things that actually help me get shit done. Tips that are easy to use and have an immediate effect, not a five year plan. These tips won't be about what software to use or what color theme is best, but general practices that significantly boosts productivity. However keep in mind – what works for me, may not work for you.
+There are plenty of productivity tips online and some of them are good, some of them are not, but I wanted to create a list of things that actually help me get shit done. Tips that are easy to use and have an immediate effect, not a five year plan. These tips won't be about what software to use or what color theme is the best, but general practices that significantly boost productivity. However keep in mind – what works for me, may not work for you.
 
 ## 1. Turn off the internet!  
 
