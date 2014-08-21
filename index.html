@@ -6,6 +6,8 @@ layout: default
 
   <!-- <h1>Posts</h1> -->
 
+  	{% assign index = true %}
+
     {% for post in site.posts %}
 		{% assign page = post %}
 		{% include post.html %}

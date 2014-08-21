@@ -11,7 +11,10 @@
 	  	{% if content %}
 	  		{{ content }}
   		{% else %}
-	  		{{ page.content }}
+	  		{{ page.excerpt }}
+	  		{% if page.content contains '<!-- more -->' %}
+	  		<p><a href="{{ page.url }}">Read more »</a></p>
+	  		{% endif %}
   		{% endif %}
 	  </article>
 
