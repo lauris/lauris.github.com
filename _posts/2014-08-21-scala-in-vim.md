@@ -24,9 +24,9 @@ There is a plugin for SBT integration with Vim called [sbt-vim](https://github.c
 
 ## Autocomplete
 
-Back in the day autocomplete was a huge problem with Vim because none of the plugins were working flawlessly and they were always a pain to set up. After a little research it seems that currently the best autocomplete plugin is [neocomplete.vim](https://github.com/Shougo/neocomplete.vim), a successor to neocomplcache, both of them made by Shougo. Sadly it does not provide support for Scala, so the next candidate is [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) by Val Markovic. It is a bit better than other autocomplete plugins, mostly thanks to its client-server architecture and a compiled component. But bad news again - no serious Scala support out of box. 
+Back in the day autocomplete was a huge problem with Vim because none of the plugins were working flawlessly and they were always a pain to set up. After a little research it seems that currently the best autocomplete plugin is [neocomplete.vim](https://github.com/Shougo/neocomplete.vim), a successor to neocomplcache, both of them made by Shougo. Sadly it does not provide support for Scala, so the next candidate is [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) by Val Markovic. It is a bit better than other autocomplete plugins, mostly thanks to its client-server architecture and a compiled component. But bad news again - no serious Scala support out of the box. 
 
-The only way to get a real autocomplete for Scala is to use Eclim, which was also the only option when I last checked few years ago. Eclim is basically a headless instance of Eclipse integrated with Vim. I went this route once and it worked, but it just didn't feel right. There are some good things about Eclim, for example, it supports more Eclipse features than just autocomplete and you choose a wide variety of supported languages.
+The only way to get a real autocomplete for Scala is to use Eclim, which was also the only option when I last checked a few years ago. Eclim is basically a headless instance of Eclipse integrated with Vim. I went this route once and it worked, but it just didn't feel right. There are some good things about Eclim, for example, it supports more Eclipse features than just autocomplete and you choose a wide variety of supported languages.
 
 The conclusion is that nothing has changed much. Sure, autocomplete works for some languages, but there is still no silver bullet. 
 
@@ -38,7 +38,7 @@ The story is pretty much the same as with autocomplete. Eclim provides some usef
 
 ## Summary
 
-If you are willing to use something like Eclim or just live without any intelligent features then Vim can be used for Scala development. In this case it has always been ready. But if you want something more, then you are out of luck. I can't imagine serious Scala development without those features. 
+If you are willing to use something like Eclim or just live without any intelligent features then Vim can be used for Scala development. In this case it has always been ready. But if you want something more, then you are out of luck. 
 
 Some IDEs have plugins for Vim integration or at least support vi key bindings, but that's usually an even worse experience. Some people are trying to improve Vim and give it a second wind. One of those projects is [Neovim](https://github.com/neovim/neovim) – "a project that seeks to aggressively refactor Vim". I have no idea how it will turn out, but let's hope for the best.
 
