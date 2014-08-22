@@ -8,7 +8,7 @@ I was a long time Vim user, however in the last few years I have been using it l
 
 Glorious times they were, but many advanced and useful features like autocomplete, refactoring, code hinting, debugging, integration with other development tools and most importantly a rapidly growing project code base of the time slowly allured me towards an IDE. I couldn't keep the code base in my head and needed tools to quickly explore and inspect the code. Maybe I just became lazier, but the IDE helped a lot. One of the best qualities of a great IDE is that everything just works out of the box and you don't need to spend an eternity to configure it. You can even spend some time actually programming. But I still missed a lot from Vim, especially key bindings and an unbeatable performance.
 
-Let's revisit Vim and this time particulary for Scala development. I am currently developing [Datazenit](http://datazenit.com) in Scala and I am loving it. Would love it even more if I could take my old friend with me.
+Let's revisit Vim and this time particularly for Scala development. I am currently developing [Datazenit](http://datazenit.com) in Scala and I am loving it. Would love it even more if I could take my old friend with me.
 
 <!-- more -->
 
