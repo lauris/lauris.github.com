@@ -14,7 +14,7 @@ Let's revisit Vim and this time particularly for Scala development. I am current
 
 ## Syntax highlighting
 
-There is a little nice package [vim-scala](https://github.com/derekwyatt/vim-scala) by Derek Wyatt. He was also the guy who convinved me to use Vim in the first place with his [Vim screencasts](https://vimeo.com/user1690209/videos). This plugin provides the bare essentials for Scala like syntax highlighting and file type detection, but also a few goodies like sorting of imports. Screenshot below.
+There is a little nice package [vim-scala](https://github.com/derekwyatt/vim-scala) by Derek Wyatt. He was also the guy who convinced me to use Vim in the first place with his [Vim screencasts](https://vimeo.com/user1690209/videos). This plugin provides the bare essentials for Scala like syntax highlighting and file type detection, but also a few goodies like sorting of imports. Screenshot below.
 
 <img src="/images/blog/scala-syntax-vim-screenshot.png" alt="Scala syntax highlighting in Vim">
 
