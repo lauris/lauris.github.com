@@ -1,15 +1,23 @@
-<header>
-  <div class="links">
-  {% for page in site.pages %}
-    {% if page.title %}
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-        {{ page.title | downcase }} »
-      </a>
-    {% endif %}
-  {% endfor %}
-  </div>
+<header id="main-header">
   <h1 id="site-title">
     <img src="/images/lambda.png" alt="Lambda">
     <a href="/">{{ site.title }}</a>
   </h1>
+  <div class="links">
+  {% assign current = page.title %}
+  <a href="/" class="page-link{% if current == null %} active{% endif %}">Blog</a>
+  {% for page in site.pages %}
+    {% if page.title %}
+      <a class="page-link{% if current == page.title %} active{% endif %}" 
+        href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endif %}
+  {% endfor %}
+  <a href="http://datazenit.com/" target="_blank" class="page-link">Datazenit</a>
+  <a href="http://twitter.com/lauriswat" target="_blank" class="page-link">Twitter</a>
+  <a href="http://github.com/lauris/lauris.github.com" 
+    target="_blank"
+    class="page-link github-link">
+    <img src="/images/github-repo.png" alt=""> 
+    Source</a>
+  </div>
 </header>
