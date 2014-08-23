@@ -78,7 +78,7 @@ em {
     font-weight: 600;
     margin-right: 10px;
 }
-.links a:hover, .links a.active {
+.links a:hover {
     text-decoration: underline;
 }
 .links a.active {
