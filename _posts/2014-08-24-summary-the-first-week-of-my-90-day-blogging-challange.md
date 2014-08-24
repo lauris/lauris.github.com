@@ -18,7 +18,7 @@ The reactions from communities were totally different – what was well received
 
 ## Traffic
 
-There were total 10,744 page views which is quite a lot for my blog. You can see Google Analytics screenshot from the last 8 days below.
+There were totally 10,744 page views which is quite a lot for my blog. You can see Google Analytics screenshot from the last 8 days below.
 
 <img src="/images/blog/google-analytics.png" alt="Google Analytics screenshot">
 
