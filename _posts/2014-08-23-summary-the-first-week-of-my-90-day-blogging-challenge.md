@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Summary: The first week of my 90 day blogging challange"
+title: "Summary: The first week of my 90 day blogging challenge"
 category: meta
 ---
 
-A week ago I posted [a challange](http://lauris.github.io/2014/08/14/blog-like-theres-nobody-reading/) to write a blog post for the next 90 days. I wrote every day and didn't break the challange so at least that's good. The first week has passed and here are couple of insights. 
+A week ago I posted [a challenge](http://lauris.github.io/2014/08/14/blog-like-theres-nobody-reading/) to write a blog post for the next 90 days. I wrote every day and didn't break the challenge so at least that's good. The first week has passed and here are couple of insights. 
 
 <!-- more -->
 
