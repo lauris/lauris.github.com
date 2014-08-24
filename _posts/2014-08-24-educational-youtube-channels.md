@@ -8,7 +8,7 @@ What better way is there to entertain yourself for a short while than to watch e
 
 <!-- more -->
 
-* **[Vsauce](https://www.youtube.com/user/Vsauce)** by Michael Stevens. Vsauce is my favorite pick of all YouTube channels. I really enjoy the method of delivery, topics and quality of vidoes. Vsauce mostly features scientific topics, but earlier there was also a mix of gaming and technology related themes. 
+* **[Vsauce](https://www.youtube.com/user/Vsauce)** by Michael Stevens. Vsauce is my favorite pick of all YouTube channels. I really enjoy the method of delivery, topics and quality of videos. Vsauce mostly features scientific topics, but earlier there was also a mix of gaming and technology related themes. 
 
 * **[Veritasium](https://www.youtube.com/user/1veritasium)** by Derek Muller. An educational science channel covering a wide variety of scientific topics. The videos also feature interviews with field experts and science experiments. Some of the videos seem to be targeted to a general audience thus making them a bit too dumbed down.
 
