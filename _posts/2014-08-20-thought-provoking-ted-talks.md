@@ -6,6 +6,8 @@ category:
 
 I am really a fan of TED talks, I watch them for entertainment, to learn something new and when I am bored. Their slogan basically says it all "Ideas Worth Spreading". There are over 1700 TED talks recorded, but I want to present a list of my all-time favorites.
 
+<!-- more -->
+
 * ["How great leaders inspire action"](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) by Simon Sinek. An exceelent talk about leadership and its true meaning. I highly suggest watching all of his talks.
 * ["The best stats you've ever seen"](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) by Hans Rosling. This is even more fun than watching sports. A saturated and vibrant talk about statistics.
 * ["How schools kill creativity"](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) by Ken Robinson. One of the most popular TED talks out there, this is truly a must see for anyone.  
