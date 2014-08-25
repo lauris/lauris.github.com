@@ -6,6 +6,8 @@ category: productivity
 
 There are plenty of productivity tips online and some of them are good, some of them are not, but I wanted to create a list of things that actually help me get shit done. Tips that are easy to use and have an immediate effect, not a five year plan. These tips won't be about what software to use or what color theme is the best, but general practices that significantly boost productivity. However keep in mind – what works for me, may not work for you. These tips may also be relevant to non-developers, but I can only speak from my experience as a developer.
 
+<!-- more -->
+
 ## 1. Turn off the internet!  
 
 Seriously, there is no better advice than that. It is dead obvious and works every time. If you need to get stuff done, just turn off the internet and hack away. Silence your phone, turn off all notifications and just disconnect from everything. I usually download offline docs for the programming language and tools I am using at the moment, but when I really need to research a problem or ask on a forum, I just use my tablet or phone. Ok, sometimes it is faster and easier to just turn the internet on again, but do not wander too far.

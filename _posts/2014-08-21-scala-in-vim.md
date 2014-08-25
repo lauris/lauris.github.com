@@ -6,11 +6,11 @@ category: vim
 
 I am a long time Vim user, however in the last few years I have been using it less and less each day in favor of [IntelliJ IDEA](http://www.jetbrains.com/idea/), a superb, fully featured IDE that really does it all. Vim felt right after I got past its steep learning curve and for quite some time I was a true Vim junkie. I used it for everything and had installed the [Vimperator plugin](https://addons.mozilla.org/en-US/firefox/addon/vimperator/) for Firefox and [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) for Chrome, configured my window manager [xmonad](http://xmonad.org/) to use Vim-like key bindings, enabled [vi editing mode in bash](http://www.catonmat.net/blog/bash-vi-editing-mode-cheat-sheet/) and so on.
 
+<!-- more -->
+
 Glorious times they were, but many advanced and useful features like autocomplete, refactoring, code hinting, debugging, integration with other development tools and most importantly a rapidly growing project code base of the time slowly allured me towards an IDE. I couldn't keep the code base in my head and needed tools to quickly explore and inspect the code. Maybe I just became lazier, but the IDE helped a lot. One of the best qualities of a great IDE is that everything just works out of the box and you don't need to spend an eternity to configure it. You can even spend some time actually programming. But I still missed a lot from Vim, especially key bindings and an unbeatable performance.
 
 Let's revisit Vim and this time particularly for Scala development. I am currently developing [Datazenit](http://datazenit.com) in Scala and I am loving it. Would love it even more if I could take my old friend with me.
-
-<!-- more -->
 
 ## Syntax highlighting
 
