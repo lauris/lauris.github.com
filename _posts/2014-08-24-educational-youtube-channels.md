@@ -14,6 +14,6 @@ What better way is there to entertain yourself for a short while than to watch e
 
 * **[CGP Grey](https://www.youtube.com/user/CGPGrey)**. CGP Grey's videos are mostly fast paced explanations of different topics like geography, history and internet. I like the pace because it holds the attention at all times and it doesn't feel like wasting too much time. 
 
-* **[MinutePhysics](https://www.youtube.com/user/minutephysics)** by Henry Reich. Short, educational videos that explain various physics-related topics. Most videos are around one minute in length and are great for a quick dose of knowledge. The goal of MinutePhysics is "to get people excited about learnig". 
+* **[MinutePhysics](https://www.youtube.com/user/minutephysics)** by Henry Reich. Short, educational videos that explain various physics-related topics. Most videos are around one minute in length and are great for a quick dose of knowledge. The goal of MinutePhysics is "to get people excited about learning". 
 
 * **[Numberphile](https://www.youtube.com/user/numberphile)** by Brady Haran. As you could guess this channel produces interesting videos about numbers and mathematics. Doesn't sound too interesting? Well, there is only one way to find out...
