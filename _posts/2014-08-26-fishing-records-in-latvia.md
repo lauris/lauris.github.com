@@ -4,7 +4,7 @@ title: "Fishing records in Latvia"
 category: fishing
 ---
 
-Fishing is one of my biggest hobbies and I try to get near freshwaters as often as I can. Latvia is full of amazing lakes and rivers that are scattered with anglers trying to get that big catch. I have made a small list of fishing records in Latvia. This list doesn't feature all records, just the most interesting ones. 
+Fishing is one of my biggest hobbies and I try to get near freshwaters as often as I can. Latvia is full of amazing lakes and rivers that are scattered with anglers trying to get that big catch. I noticed that there is no information in English about fishing records in Latvia, so I made a small list. This list doesn't feature all records, just those that seemed interesting to me. 
 
 <!-- more -->
 
@@ -12,7 +12,7 @@ Fishing is one of my biggest hobbies and I try to get near freshwaters as often 
 
 This is one of the longest standing records in Latvia. The fish was caught in 1989 by V. Petjukevičs. I couldn't find a picture of the record online, but I remember seeing it in an old fishing book. If I ever find that book, I will add the photo here.
 
-This record is also special because nobody rarely get even near the old record. 10-15KG pikes are counted as really big ones here.
+This record is also special because rarely anyone gets near the old one. 10-15KG pikes are counted as really big ones here.
 
 ## Catfish – 84.70KG
 
@@ -22,7 +22,7 @@ The Catfish record was broken by M. Velde in year 2010 in one of the two Catfish
 
 ## Zander – 11.80KG
 
-The record size Zander or pike-perch as they are also called was also caught in river Daugava. The previous record was beaten by just 50 grams. 
+The record size Zander (they are also called pike-perch) was also caught in river Daugava. The previous record was beaten by just 50 grams. 
 
 ![Zander record in Latvia](/images/blog/zander-record-latvia.jpg)
 
@@ -38,6 +38,6 @@ First record in this list that was set by a woman. The record was set in 2009 an
 
 ## Summary
 
-Daugava river is a sweet spot for anglers and it currently holds 4 fishing records. I am lucky enough to be living near several lakes and river Gauja, also one of the longest rivers in Latvia. I prefer going after pikes when I am in an active mood, but when my goal is to just relax and enjoy the nature I choose a small lake in nearby forest that is full of Tenches and some smaller fishes. Picture of the lake below.
+Daugava river is a sweet spot for anglers and it currently holds 4 fishing records. I am lucky enough to be living near several lakes and river Gauja, also one of the longest rivers in Latvia. I prefer going after pikes when I am in an active mood, but when my goal is to relax and enjoy the nature I choose a small lake in nearby forest that is full of Tenches and some smaller fishes. Picture of the lake below.
 
 ![Lake Eimurs](/images/blog/lake-eimurs.png)
