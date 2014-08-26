@@ -4,8 +4,6 @@ layout: default
 
 <div>
 
-  <!-- <h1>Posts</h1> -->
-
   	{% assign index = true %}
 
     {% for post in site.posts %}
@@ -13,6 +11,6 @@ layout: default
 		{% include post.html %}
     {% endfor %}
 
-  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> or browse <a href="https://github.com/lauris/lauris.github.com" target="_blank">source on GitHub</a>.</p>
 
 </div>
