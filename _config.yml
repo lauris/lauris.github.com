@@ -11,3 +11,6 @@ github_username:  lauris
 markdown: kramdown
 permalink: pretty
 excerpt_separator: "<!-- more -->"
+
+gems:
+  - jekyll-sitemap
