@@ -42,20 +42,17 @@ em {
     margin: 40px auto 0 auto;
 }
 #site-title {
- /*   padding: 70px 0 0 195px;
-    font-size: 28px;*/
+    font-weight: 600;
     font-size: 25px;
     line-height: normal;
-    /*margin-left: 60px;*/
-    /*text-align: center;*/
-    /*background: #eee;*/
-    /*padding: 20px 40px;*/
     vertical-align: middle;
 }
 #site-title a {
-    /*color: transparent;*/
-    /*letter-spacing: 3px;*/
     color: black;
+    text-decoration: none;
+}
+#site-title a:hover {
+    text-decoration: underline;
 }
 #site-title a, #site-title img {
     vertical-align: middle;
@@ -63,8 +60,6 @@ em {
 
 
 .links {
-    /*float: right;*/
-    /*margin-left: 150px;*/
     margin-top: 5px;
     font-size: 16px;
     vertical-align: middle;
