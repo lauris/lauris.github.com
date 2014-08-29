@@ -4,7 +4,7 @@
 
 	  <header>
 	    <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-	    <p class="entry-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+	    <p class="entry-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.category %} • Category: {{ page.category|capitalize }}{% endif %}</p>
 	  </header>
 
 	  <article class="entry-body">
