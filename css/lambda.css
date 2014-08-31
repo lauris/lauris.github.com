@@ -1,10 +1,6 @@
 html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
 body {
-    font: 14px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-family: 'Open Sans', "Helvetica Neue", Arial, sans-serif;
-    /*-webkit-font-smoothing: antialiased;*/
-    /*font-smoothing: antialiased;*/
-    /*background: url(../img/blog/header-bgr.png) repeat-x 0 0;*/
+    font: 14px/18px "Open Sans", "Helvetica Neue", Arial, sans-serif;
     padding-bottom: 40px;
 }
 
@@ -17,7 +13,7 @@ a:hover {
 }
 
 h1, h2 {
-    font-weight: 600;
+    font-weight: 700;
 }
 h1 a, h2 a {
     color: black;
@@ -31,21 +27,24 @@ em {
 }
 
 .wrapper {
-    width: 980px;
+    max-width: 700px;
+    /*min-width: 460px;*/
     margin: 0 auto;
+    padding: 0 30px;
 }
 
 #main-header {
     padding-bottom: 25px;
     border-bottom: 2px solid black;
-    width: 700px;
+    /*width: 700px;*/
     margin: 40px auto 0 auto;
 }
 #site-title {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 25px;
     line-height: normal;
     vertical-align: middle;
+    /*font-family: 'Sorts Mill Goudy', serif;*/
 }
 #site-title a {
     color: black;
@@ -65,7 +64,7 @@ em {
     vertical-align: middle;
     line-height: normal;
     color: #777;
-    padding-left: 50px;
+    padding-left: 1px;
 }
 .links a {
     text-decoration: none;
@@ -95,7 +94,8 @@ em {
 }
 
 #articles {
-    width: 700px;/*
+    /*width: 700px;*/
+    /*
     margin-right: 30px;
     margin-left: 40px;*/
     margin: auto;
@@ -205,12 +205,12 @@ em {
     overflow: hidden;
 }
 
-.comment-wrapper {
+/*.comment-wrapper {
     width: 510px;
     margin-left: 195px;
     border-top: 1px solid #e7e7e7;
     padding-top: 50px;
-}
+}*/
 
 :focus {
     outline: 0;
@@ -296,3 +296,27 @@ button:hover, input[type=button]:hover, .button:hover {
 }
 
 .post pre.terminal code { background-color: #333; }
+
+@media all and (max-width: 550px) {
+    #site-title img {
+        width: 25px;
+    }
+    .links a {
+        margin-right: 2px;
+        font-size: 14px;
+    }
+    .links .github-link {
+        float: none;
+    }
+    .links .github-link img {
+        display: none;
+    }
+    .wrapper {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .entry h1 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+}
