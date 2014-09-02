@@ -6,6 +6,8 @@ category: startups
 
 I wanted to make a list of useful apps and services that I use or have used for any on my startups. This list will only feature apps that have a free plan. 
 
+<!-- more -->
+
 * **[Mailchimp](http://mailchimp.com/) for email campaigns**. They offer a generous free plan that has always been sufficient for all my use cases.
 * **[Buffer](https://bufferapp.com/) for social network sharing**. The free plan includes only a single Twitter account, but if you have enough willpower you can always use separate logins for each of your Twitter account. Also they premium plan is pretty cheap - 10$/month. 
 * **[UserVoice](https://www.uservoice.com/) for a feedback portal**. It is easy to setup and theme, always been pleasant to use. Can use it as a help desk app or just as a feedback widget.
