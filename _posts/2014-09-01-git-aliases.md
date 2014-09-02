@@ -18,6 +18,8 @@ Sometimes I want to know what commits and their respective changes have not yet 
 
 Git grep is cool, but you know what is even cooler? Grouped git grep – it group matches by file name and make it very easy to overview the search results. 
 
+![Git grouped grep](/images/blog/git-grouped-grep.png)
+
 ## Simple list of commits (colored)
 
 ``cl = log --graph --pretty=format:"%an: %s%C(yellow)%d%Creset %Cgreen(%cr)%Creset" --date=relative``
