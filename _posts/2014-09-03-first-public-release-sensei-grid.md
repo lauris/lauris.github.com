@@ -10,7 +10,7 @@ In previous articles ([#1](http://lauris.github.io/datazenit/2014/08/29/open-sou
 
 * Simplicity: Sensei Grid will be a single purpose data grid without unrelated functionality. 
 * Small code base: I will try to avoid bloatware and dirty workarounds/hacks as much as possible to keep the code base small and tidy.
-* Extensibility: Even thought Sensei Grid will be kept simple, it will be simple to add additional functionality by extending the core grid and editor. 
+* Extensibility: Even though Sensei Grid will be kept simple, it will be simple to add additional functionality by extending the core grid and editor. 
 * Constant development and maintenance: As I previously wrote my belief is that active maintenance is a very important aspect of an open source project. Sensei Grid is part of Datazenit and that means it will be constantly developed and used. 
 
 I will post development progress and updates in this blog and [my twitter account](http://twitter.com/lauriswat).
