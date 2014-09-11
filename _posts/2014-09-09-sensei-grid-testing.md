@@ -6,6 +6,8 @@ category: development
 
 This is daily progress update for [Sensei Grid](https://github.com/datazenit/sensei-grid). Today I spent some time to write test specifications for public data access API methods. New DOM tests were also added and test specs were dived in two files: ``apiSpec.js`` and ``domSpec.js``. Jasmine is used a testing framework and tests are run together with JSHint to ensure code quality. Tests and JSHint are also run on [Travis CI server](https://travis-ci.org/datazenit/sensei-grid). 
 
+<!-- more -->
+
 Another addition was value parsers that convert string values from table cells to corresponding data type when you access cells via data API, e.g. ``getCellData``.
 
 Development overview:

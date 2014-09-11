@@ -8,7 +8,7 @@ Today was one of those days off when you just do something random without much t
 
 ![Route for hike](/images/blog/hike.png)
 
-I will leave this post short because I currently feel no inspiration to write more. Probably will add more text and pictures to this post tomorrow. 
+I will leave this post short because I currently feel no inspiration to write more. ~~Probably will add more text and pictures to this post tomorrow.~~
 
 
 
