@@ -15,6 +15,7 @@ fishing after a long day's work or just building stuff for fun.
 You can contact me via [email](mailto:lauris@discuss.lv) or follow me on [Twitter](http://twitter.com/lauriswat), [Github](http://github.com/lauris).
 
 Startups and projects:
+
 * [Datazenit](http://datazenit.com) – web-based database administration tool
 * [Hiburo](https://hiburo.com) – small team management web app
 * [GetSSL.me](https://getssl.me) – reasonably priced SSL certificate store
