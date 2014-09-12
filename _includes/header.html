@@ -7,18 +7,18 @@
   {% assign current = page.title %}
   <a href="/" class="page-link{% if current == null %} active{% endif %}">Blog</a>
   {% for page in site.pages %}
-    {% if page.title %}
-      <a class="page-link{% if current == page.title %} active{% endif %}" 
+    {% if page.title and page.permalink != "/404.html" %}
+      <a class="page-link{% if current == page.title %} active{% endif %}"
         href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
     {% endif %}
   {% endfor %}
   <a href="/feed.xml" target="_blank" class="page-link">RSS</a>
   <a href="http://datazenit.com/" target="_blank" class="page-link">Datazenit</a>
   <a href="http://twitter.com/lauriswat" target="_blank" class="page-link">Twitter</a>
-  <a href="http://github.com/lauris/lauris.github.com" 
+  <a href="http://github.com/lauris/lauris.github.com"
     target="_blank"
     class="page-link github-link">
-    <img src="/images/github-repo.png" alt=""> 
+    <img src="/images/github-repo.png" alt="">
     Source</a>
   </div>
 </header>

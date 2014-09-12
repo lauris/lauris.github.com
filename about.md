@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+comments: false
+author_footer: false
 ---
 
 I am **Lauris Dziļums**, a software developer who enjoys exploring
@@ -12,8 +14,6 @@ a startup building web-based database administration tool. Datazenit is where
 I spend most of my time, but I also enjoy going on a trip with my bike,
 fishing after a long day's work or just building stuff for fun.
 
-You can contact me via [email](mailto:lauris@discuss.lv) or follow me on [Twitter](http://twitter.com/lauriswat), [Github](http://github.com/lauris).
-
 Startups and projects:
 
 * [Datazenit](http://datazenit.com) – web-based database administration tool
@@ -22,3 +22,5 @@ Startups and projects:
 * [Sensei Grid](https://github.com/datazenit/sensei-grid) – simple data grid in JS/HTML
 * [Awesome Scala](https://github.com/lauris/awesome-scala) –  list of useful Scala libraries
 * [Github Buttons](https://github.com/lauris/github-buttons) – static GitHub buttons
+
+You can contact me via [email](mailto:lauris@discuss.lv) or follow me on [Twitter](http://twitter.com/lauriswat), [Github](http://github.com/lauris).
