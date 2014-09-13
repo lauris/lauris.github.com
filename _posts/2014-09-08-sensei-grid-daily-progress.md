@@ -2,6 +2,7 @@
 layout: post
 title: "Sensei Grid Daily Progress"
 category: development
+image: /images/blog/sensei-grid-screenshot.png
 ---
 
 Today was a big day for [Sensei Grid](https://github.com/datazenit/sensei-grid), an open source data grid in JavaScript/HTML I am currently working on. The project reached 2nd place in GitHub's [Trending repository list](https://github.com/trending) (1st between JavaScript repositories). GitHub sends out daily emails about new Trending repos and that resulted in even more traffic and followers to Sensei Grid. I was happy to see project's community growing steadily.

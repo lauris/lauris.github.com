@@ -2,6 +2,7 @@
 layout: post
 title: "More testing [v0.1.2]"
 category: development
+image: /images/blog/sensei-grid-screenshot.png
 ---
 
 Today was mostly spent on further testing [Sensei Grid](https://github.com/datazenit/sensei-grid). This wasn't a great day for productivity, because a lot of time was wasted on event binding bugs in Jasmine testing environment (reason: curved_hands.dll). All problems were resolved and testing has been going forward pretty smoothly. I plan to finalize tests tomorrow and start working on new functionality on Friday. First thing in the list - implement functionality for adding new rows. 

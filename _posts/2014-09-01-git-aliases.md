@@ -2,6 +2,7 @@
 layout: post
 title: "Git aliases"
 category: development
+image: /images/blog/git-grouped-grep.png
 ---
 
 Git is the best version control system and one of my favorite development tools in general. It is small, fast and has some Linux-coolness to it. In this blog post I will share a few handy git commands that I have defined as aliases. Aliases can be defined in [.gitconfig](http://git-scm.com/docs/git-config) file located in your home directory. Aliases are basically shortcuts to frequently used or just long commands. The aliases listed in this post are in form ``<name of alias> = <git command>``. The same format is used in the ``.gitconfig`` file. Just prefix the ``<git command>`` with "git" and you can use it without setting an alias.

@@ -2,6 +2,7 @@
 layout: post
 title: "Sensei Grid got some traction"
 category: development
+image: /images/blog/sensei-grid-screenshot.png
 ---
 
 Today I was pleasantly surprised when [Sensei Grid](https://github.com/datazenit/sensei-grid), an open source project I am currently working on, reached the top of Hacker News' front page and stayed there for several hours. It resulted in an interesting [discussion](https://news.ycombinator.com/item?id=8280826), huge load of traffic and new followers on Github. The Github repository if currently 3rd in [the Trending repo list](https://github.com/trending). 

@@ -2,6 +2,7 @@
 layout: post
 title: "5 Productivity Tips for Developers"
 category: productivity
+image: /images/blog/coffee-productivity.jpg
 ---
 
 There are plenty of productivity tips online and some of them are good, some of them are not, but I wanted to create a list of things that actually help me get shit done. Tips that are easy to use and have an immediate effect, not a five year plan. These tips won't be about what software to use or what color theme is the best, but general practices that significantly boost productivity. However keep in mind – what works for me, may not work for you. These tips may also be relevant to non-developers, but I can only speak from my experience as a developer.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekly round-up (#4/2014)
+image: /images/blog/t-shirts-preview.png
 ---
 Last week we designed new Datazenit t-shirts and they look pretty awesome if you ask me. Preview below.
 
