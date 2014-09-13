@@ -2,6 +2,7 @@
 layout: post
 title: "Scala in Vim"
 category: vim
+image: /images/blog/scala-syntax-vim-screenshot.png
 ---
 
 I am a long time Vim user, however in the last few years I have been using it less and less each day in favor of [IntelliJ IDEA](http://www.jetbrains.com/idea/), a superb, fully featured IDE that really does it all. Vim felt right after I got past its steep learning curve and for quite some time I was a true Vim junkie. I used it for everything and had installed the [Vimperator plugin](https://addons.mozilla.org/en-US/firefox/addon/vimperator/) for Firefox and [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) for Chrome, configured my window manager [xmonad](http://xmonad.org/) to use Vim-like key bindings, enabled [vi editing mode in bash](http://www.catonmat.net/blog/bash-vi-editing-mode-cheat-sheet/) and so on.
