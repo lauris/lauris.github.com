@@ -2,6 +2,7 @@
 layout: post
 title: "Fishing records in Latvia"
 category: fishing
+image: /images/blog/lake-eimurs.png
 ---
 
 Fishing is one of my biggest hobbies and I try to get near freshwaters as often as I can. Latvia is full of amazing lakes and rivers that are scattered with anglers trying to get that big catch. I noticed that there is no information in English about fishing records in Latvia, so I made a small list. This list doesn't feature all records, just those that seemed interesting to me. 

@@ -2,6 +2,7 @@
 layout: post
 title: "Duplicate Blog Friday"
 category: 
+image: /images/blog/duplicate-blog.png
 ---
 
 Morning started rather interesting. I was googling search terms related to my blog and was quite surprised when I found another blog with the same content and design as this one. The domain was a regular .com and it had a bit different style, but overall it was a complete copy of this one. 

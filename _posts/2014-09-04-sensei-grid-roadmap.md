@@ -6,6 +6,8 @@ category: development
 
 I am currently working on [**Sensei Grid**, a data grid in JavaScript](https://github.com/datazenit/sensei-grid). Every meaningful project, especially an open source one, needs a roadmap and clear goals. In a previous [blog post about Sensei Grid](http://lauris.github.io/development/2014/09/03/first-public-release-sensei-grid/) I wrote about the goals, now I will share a small roadmap for upcoming releases.
 
+<!-- more -->
+
 * Tests and full coverage
 * Event callbacks (e.g., save, load, render, move, sort) for an easy extensibility
 * Field types (e.g., string, int, date, float)

@@ -2,6 +2,7 @@
 layout: post
 title: "Typesafe's case study about Datazenit"
 category: datazenit
+image: /images/blog/datazenit-case-study-quote.png
 ---
 
 Typesafe, the company behind the programming language Scala and the Reactive Platform, is occasionally publishing case studies about other companies using their technology stack. I was pleasantly surprised when they asked me to collaborate on a case study about [Datazenit](http://datazenit.com). Backend of Datazenit is developed in Scala and built on top of Play framework. I wrote about [switching from Python to Scala](http://datazenit.com/blog/2014/05/19/datazenit-scala/) a few months ago and the article gained some traction inside Scala community. Soon after that Typesafe reached out and wanted to learn more about how we use Scala. I was happy to share, and after several discussions and drafts a case study was born. The study covers the reasons why did we choose Scala, what were our expectations and the end result. You can read **[the full paper here](http://downloads.typesafe.com/website/casestudies/Datazenit-Final.pdf)** and check out other interesting case studies at [Typesafe's website](http://typesafe.com/company/casestudies). It is an honor to be amongst other tech giants like Twitter, LinkedIn and Foursquare.

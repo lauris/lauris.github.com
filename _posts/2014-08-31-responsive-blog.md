@@ -2,6 +2,7 @@
 layout: post
 title: "Responsive blog"
 category: meta
+image: /images/blog/responsive-commit.png
 ---
 
 Today I [got notified](https://twitter.com/VKMKD/status/506013499689287680) that this blog is not responsive. True. 

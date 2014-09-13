@@ -2,9 +2,12 @@
 layout: post
 title: "First public release of Sensei Grid"
 category: development
+image: /images/blog/sensei-grid-sketch.png
 ---
 
 In previous articles ([#1](http://lauris.github.io/datazenit/2014/08/29/open-source-work-2-sensei-grid/), [#2](http://lauris.github.io/development/2014/08/25/work-and-open-source/)) I have mentioned and showcased a small [demo](http://datazenit.com/static/sensei-grid/examples/) of an open source library I am currently working on - Sensei Grid, a simple data grid in JavaScript. Today I cleaned and re-structurized the project, refactored some core classes and published it on GitHub. It is still under active development, but I have a clear plan and goals for the project because it is an essential part of my startup – [Datazenit](http://datazenit.com). Check out **[Sensei Grid at GitHub](https://github.com/datazenit/sensei-grid)**.
+
+<!-- more -->
 
 ## Initial goals for Sensei Grid
 

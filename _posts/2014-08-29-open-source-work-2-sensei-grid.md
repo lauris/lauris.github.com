@@ -2,6 +2,7 @@
 layout: post
 title: "Work and open source #2: Sensei Grid"
 category: datazenit
+image: /images/blog/
 ---
 
 Previously I [wrote about an issue](http://lauris.github.io/development/2014/08/25/work-and-open-source/) I had regarding an open source library. A short summary – an update that was supposed to fix several blocker issues broke everything else and I was left with a dilemma to either fix the lib or to find a new one. Initially I tried to fix the library, but when enough time was wasted and new bugs started popping up randomly I decided it was time to ditch that dependency entirely. The package provided an Excel-like data grid, which is one of the core elements of Datazenit's interface. I couldn't wait for another update, because Datazenit needs to be moving forward.

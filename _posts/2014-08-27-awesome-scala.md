@@ -2,6 +2,7 @@
 layout: post
 title: "Awesome Scala"
 category: scala
+image: /images/blog/awesome-scala-github.png
 ---
 
 Scala is awesome, there is even a proof for that – **[awesome-scala](https://github.com/lauris/awesome-scala)**. 2 months ago I started a list of great Scala libraries, frameworks and tools. The list has significantly grown and improved, thanks to its many contributors. Yesterday awesome-scala reached a small milestone: 1000 stars on its GitHub repository. There are also more than 100 forks and 100 watchers, 153 commits, 38 contributors and 64 closed pull requests.
