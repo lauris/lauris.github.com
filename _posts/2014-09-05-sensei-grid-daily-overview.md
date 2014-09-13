@@ -6,6 +6,8 @@ category: development
 
 I promised to post updates on [Sensei Grid](https://github.com/datazenit/sensei-grid) development and here goes a daily progress overview. For those who do not follow this blog – Sensei Grid is an open source grid editor in JavaScript/HTML. More info in a previous [blog post](http://lauris.github.io/development/2014/09/03/first-public-release-sensei-grid/).
 
+<!-- more -->
+
 * **Add public data api and usage examples.** (9 hours ago)
 * Fix console.groupEnd for data api examples. (9 hours ago)
 * Add example for editor:load event. (10 hours ago)

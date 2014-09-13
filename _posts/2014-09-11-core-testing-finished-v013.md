@@ -6,6 +6,8 @@ category: development
 
 This is another status update for [Sensei Grid](https://github.com/datazenit/sensei-grid), an open source project I am working on. As [planned yesterday](http://lauris.github.io/development/2014/09/10/more-testing-v012/), today all tests were finished for the most important parts of Sensei Grid, and I published a new release - [v0.1.3](https://github.com/datazenit/sensei-grid/releases/tag/v0.1.3). Today went without any hiccups and I was able to finish testing earlier than expected. Because of that I already started working on functionality regarding new row support - there will be an empty row at the end of grid and it will also introduce row/cell states - saved/unsaved. It seems to be a fairly common and obvious practice. 
 
+<!-- more -->
+
 Overview of development:
 
 * Bump version to v0.1.3.
