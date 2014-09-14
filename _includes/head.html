@@ -12,7 +12,7 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.excerpt %}{% if page.content contains '<!-- more -->' %}{{ page.excerpt|strip_html|trim }}{% endif %}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    {% if page.image %}<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{ page.image }}" />{% endif %}
+    {% if page.image %}<meta name="twitter:image:src" content="{{ site.baseurl | prepend: site.url }}{{ page.image }}" />{% endif %}
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
