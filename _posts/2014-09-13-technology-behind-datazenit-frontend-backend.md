@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Technology Behind Datazenit: Backend and Frontend"
+title: "The Technology Behind Datazenit: Part 1"
 category: development
 permalink: /technology-behind-datazenit-frontend-backend
 image: /images/blog/datazenit-on-ipad.png
