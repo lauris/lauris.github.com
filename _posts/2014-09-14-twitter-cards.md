@@ -9,7 +9,7 @@ Twitter Cards let's you add rich content to tweets when you share a link. I have
 
 <!-- more -->
 
-There is detailed information [how to add Twitter Cards](https://dev.twitter.com/cards/types/summary) to your site on Twitter's developer portal. Once you have added meta tags to your site, head to [Twitter Card Validator](https://cards-dev.twitter.com/validator) and start your approval process.
+There is detailed information [how to add Twitter Cards](https://dev.twitter.com/cards/types/summary) to your site on Twitter's developer portal. Once you have added meta tags to your site, head to [Twitter Card Validator](https://cards-dev.twitter.com/validator) and start the approval process.
 
 This is how it looks when you share a link from my blog. For some blog posts there is an picture embedded in the card.
 
