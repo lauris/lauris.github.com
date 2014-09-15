@@ -5,7 +5,7 @@ category: development
 image: /images/blog/twitter-cards-blog.png
 ---
 
-Twitter Cards let's you add rich content to tweets when you share a link. I have added Twitter Cards to this blog which basically means I have added few meta tags to the head part of HTML. I was always sure that Twitter Cards are whitelisted and thus available to big brands and companies, but as it turns out the approval process is really simple and fast. It took around 10 minutes and my card was approved. 
+Twitter Cards lets you add rich content to tweets when you share a link. I have added Twitter Cards to this blog which basically means I have added few meta tags to the head part of HTML. I was always sure that Twitter Cards are whitelisted and thus available to big brands and companies, but as it turns out the approval process is really simple and fast. It took around 10 minutes and my card was approved. 
 
 <!-- more -->
 
