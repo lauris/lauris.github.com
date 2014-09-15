@@ -4,7 +4,7 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{% if page.excerpt %}{% if page.content contains '<!-- more -->' %}{{ page.excerpt|strip_html|trim }}{% else %}{{ site.description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.excerpt %}{% if page.content contains '<!-- more -->' %}{{ page.excerpt|strip_html|trim }}{% endif %}{% else %}{{ site.description }}{% endif %}">
 
     <!-- twitter meta -->
     <meta name="twitter:card" content="summary" />
@@ -14,8 +14,13 @@
     <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     {% if page.image %}<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{ page.image }}" />{% endif %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- google -->
+    <link rel="author" href="https://plus.google.com/u/1/106958955611683589420/posts"/>
+    <link rel="publisher" href="https://plus.google.com/u/1/106958955611683589420"/>
+    {% if page.image %}<meta name="thumbnail" content="{{ site.baseurl | prepend: site.url }}{{ page.image }}" />{% endif %}
+    
 
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="icon" type="image/png" href="/images/lambda-xl.png">
 
     <!-- Custom CSS -->
