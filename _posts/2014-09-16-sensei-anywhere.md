@@ -7,6 +7,8 @@ image: /images/blog/sensei-anywhere-screenshot.png
 
 Developer productivity is very important for us at [Datazenit](http://datazenit.com). Database administration tools usually do not excel with great efficiency, but we are here to change that. I really enjoy quick navigation features in IDEs and code editors. For example, Sublime Text, IntelliJ IDEA and vim with [ctrlp](https://github.com/kien/ctrlp.vim) or [command-t](https://github.com/wincent/Command-T) plugins provide an exceptionally quick way to navigate between files, classes and methods. 
 
+<!-- more -->
+
 ![Sublime Text Navigation](/images/blog/sublime-text-navigation.png)
 
 <p class="caption">Sublime Text Goto Anything</p>
