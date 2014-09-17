@@ -11,10 +11,10 @@ Developer productivity is very important for us at [Datazenit](http://datazenit.
 
 <p class="caption">Sublime Text Goto Anything</p>
 
-I want to introduce similar functionality to Datazenit. We have started development on [Sensei Anywhere](https://github.com/datazenit/sensei-anywhere), a navigation tool powered by fuzzy search. The best part of this is that Sensei Anywhere is fully open source. It is essentially a JS library that depends on jQuery and lodash/underscore.js. The library itself is very simple and uncomplicated, it just triggers callbacks that you can listen to and do anything from there. It also means that the library is very flexible and brings no overhead.
+I want to introduce similar functionality to Datazenit. We have started development on [Sensei Anywhere](https://github.com/datazenit/sensei-anywhere), a navigation tool powered by fuzzy search. The best part of this is that Sensei Anywhere is fully open source. It is essentially a JS library that depends on jQuery and lodash/underscore.js. The library itself is very simple and uncomplicated, it just triggers callbacks that you can listen to and do anything from there. It also means that the library is very flexible and brings no overhead. Sensei Anywhere will be used in Datazenit to quickly navigate between connections, databases, tables and filters. 
 
 The project is currently under heavy development, but you can check out [Sensei Anywhere demo](http://datazenit.com/static/sensei-anywhere/example/). Source code is available at [GitHub](https://github.com/datazenit/sensei-anywhere).
 
 <a href="http://datazenit.com/static/sensei-anywhere/example/" target="_blank"><img style="margin:auto;" src="/images/blog/sensei-anywhere-screenshot.png" alt="Sensei Anywhere Screenshot"></a>
 
-This is our second open source project. Our first one was [Sensei Grid](https://github.com/datazenit/sensei-grid), simple and lightweight data grid in JS/HTML. Both projects are part of [Datazenit](http://datazenit.com/) and will be used in the core product.
+P.S. We recently announced another open source project – [Sensei Grid](https://github.com/datazenit/sensei-grid), simple and lightweight data grid in JS/HTML, that is also a part of Datazenit. 
