@@ -11,7 +11,7 @@ Today [a new feature was released](https://github.com/datazenit/sensei-grid/rele
 
 An example how to listen to "row:save" callback: 
 
-```javascript
+```
 grid.events.on("row:save", function (data, $row) { 
 	// save data via ajax 
 	// e.g., $.post("/api/save", data);
