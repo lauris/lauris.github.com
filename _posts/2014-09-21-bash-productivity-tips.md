@@ -3,7 +3,7 @@ layout: post
 title: "Bash Productivity Tips"
 permalink: "/bash-productivity-tips"
 category: development
-related: ["Git aliases", "5 Productivity Tips for Developers", "Work and open source #2: Sensei Grid"]
+related: ["Git aliases", "5 Productivity Tips for Developers", "Work and open source #2: Sensei Grid", "The Technology Behind Datazenit: Part 1"]
 ---
 
 I want to share a few tips for better Bash productivity. You will be surprised that not a single one of them is "Just install zsh".
