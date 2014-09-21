@@ -3,6 +3,7 @@ layout: post
 title: "Sensei Grid row saving"
 category: development
 image: /images/blog/sensei-grid-screenshot.png
+related: ["Sensei Anywhere", "First public release of Sensei Grid", "Sensei Grid Roadmap"]
 ---
 
 Today [a new feature was released](https://github.com/datazenit/sensei-grid/releases/tag/v0.1.5) for [Sensei Grid](https://github.com/datazenit/sensei-grid), a simple data grid in JS/HTML. Previously I added an always present empty row at the end of table (configurable option), that was meant for adding new data to the grid. I have added a new callback for easier row saving in the backend, especially if you are storing data in a relational database. 

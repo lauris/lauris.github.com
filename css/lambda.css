@@ -127,7 +127,7 @@ em {
     padding-top: 0;
 }
 .entry .entry-date, .entry .entry-content {
-    float: left;
+    /*float: left*/;
 }
 .entry .entry-content {
     /*width: 510px;*/
@@ -351,4 +351,16 @@ button:hover, input[type=button]:hover, .button:hover {
     .article-author img {
         display: none;
     }
+}
+
+/** related posts */
+.related-posts {
+}
+.related-posts>ul {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.related-posts>ul>li {
+    list-style: disc;
+    /*display: none;*/
 }
