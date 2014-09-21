@@ -364,3 +364,7 @@ button:hover, input[type=button]:hover, .button:hover {
     list-style: disc;
     /*display: none;*/
 }
+
+.highlight {
+    margin: 10px 0;
+}
