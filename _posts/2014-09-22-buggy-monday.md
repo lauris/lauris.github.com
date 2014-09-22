@@ -3,6 +3,7 @@ layout: post
 title: "Buggy Monday"
 category: development
 image: /images/blog/bootstrap.png
+related: ["Work and open source", "Work and open source #2: Sensei Grid", "First public release of Sensei Grid"]
 ---
 
 I was feeling productive today, but all that energy was wasted on a single bug, that caused 1px text alignment misperfection in Firefox. 
