@@ -4,6 +4,7 @@ title: "Bash Productivity Tips"
 permalink: "/bash-productivity-tips"
 category: development
 related: ["Git aliases", "5 Productivity Tips for Developers", "Work and open source #2: Sensei Grid", "The Technology Behind Datazenit: Part 1"]
+image: /images/blog/bash.png
 ---
 
 I want to share a few tips for better Bash productivity. You will be surprised that not a single one of them is "Just install zsh".
@@ -27,7 +28,7 @@ This one is also history related, and I use it countless times every day. Use ``
 
 ## Jump between current and previous directory
 
-Change your directory to the last directory you were in with a simple ``cd -``. This way you can quickly switch between two working directories. 
+Change your directory to the last directory you were in with a simple ``cd -``. This way you can quickly switch between two working directories.
 
 ## Display file size in a human readable format
 
@@ -46,4 +47,4 @@ I hope that everyone nows about ``CTRL+arrows`` to jump between words, but there
 
 ## Quickly transfer your key to a remote host for a password-less login
 
-This is not a tip for every day situations, but occasionally it saves a few commands. Use ``ssh-copy-id user@remote_host`` to quickly copy the identity file to the remote host to enable password-less login. Passwords should be avoided for ssh anyway. 
+This is not a tip for every day situations, but occasionally it saves a few commands. Use ``ssh-copy-id user@remote_host`` to quickly copy the identity file to the remote host to enable password-less login. Passwords should be avoided for ssh anyway.
