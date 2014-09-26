@@ -33,7 +33,7 @@ As you can guess my audience is mostly technical users interested in software de
 
 Bounce rate is really high for this blog, and there are several areas I should improve. For some blog posts the bounce is rate is even between 70-90% which is not acceptable. Just recently I added related content to the end of new blog posts, definitely should have done this earlier. Also a sidebar with recent and popular blog posts would be nice, but I am conflicted about this, because I don't want to change the current layout which I pretty much like. I will experiment a bit and make the decision after I have tried different layouts.
 
-The situation with referrals hasn't changed much, top sources are almost the same. If you are writing a tech blog and don't have all of these as your traffic sources, consider checking it out and sharing your content there.
+The situation with referrals hasn't changed much, top sources are almost the same. If you are writing a tech blog and don't have all of these as your traffic sources, consider checking them out and sharing your content there.
 
 **Top referrals**
 
