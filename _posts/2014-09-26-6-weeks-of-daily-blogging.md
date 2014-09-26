@@ -9,7 +9,7 @@ related: ["Blog like there's nobody reading", "Summary: The first week of my 90 
 
 I already [wrote a summary](/meta/2014/08/23/summary-the-first-week-of-my-90-day-blogging-challenge/) once about my daily blogging experience after the first week. Now more time has passed and I wanted to write another summary. I have blogged every single day for the past 6 weeks and I plan to continue doing so till my 90 day challenge is over. After that I am probably reducing my blogging activity to a few posts a week. 
 
-Writing a blog has become a part of my routine, and it is an engaging thing to do. I only wish that I had started this earlier. There are also a few benefits from the business side of my startup, [Datazenit](http://datazenit.com), because this blog drives a lot of traffic to it and we have almost doubled our beta list subscriber count. It is exciting to watch how each article attracts different kind of visitors and to check which articles have the best conversion rates.  
+Writing a blog has become a part of my routine, and it is an engaging thing to do. I only wish that I had started this earlier. There are also a few benefits from the business side of my startup, [Datazenit](http://datazenit.com), because this blog drives a lot of traffic to it. Our beta list subscriber count has almost doubled during the past weeks because of these blog posts. It is exciting to watch how each article attracts different kind of visitors and to check which articles have the best conversion rates.  
 
 ## Stats 
 
