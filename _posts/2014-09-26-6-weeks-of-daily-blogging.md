@@ -25,7 +25,7 @@ Stats are fun, and I enjoy doing some noobie data analysis when I finally have s
 * [Bash Productivity Tips](http://lauris.github.io/bash-productivity-tips/)
 * [Git Aliases](http://lauris.github.io/development/2014/09/01/git-aliases/)
 
-As you can guess my audience is mostly technical users interested in software development or server administration. This will help me tailor future blog posts, but I don't think it will change much how I write, because most of my blog posts are already of technical nature. The fact that most of my readers are technical users reflects greatly browser distribution. Most popular browser by far is Google Chrome, and Internet Explorer has less than 1.5% of the total share. 
+As you can guess my audience is mostly technical users interested in software development or server administration. These stats will help me to tailor future blog posts, but I don't think it will change much how I write, because most of my blog posts are already of technical nature. The fact that most of my readers are technical users reflects greatly browser distribution. Most popular browser by far is Google Chrome, and Internet Explorer has less than 1.5% of the total share. 
 
 ![Browser chart](/images/blog/browser-chart.png)
 
