@@ -17,7 +17,7 @@ Writing a blog has become a part of my routine, and it is an engaging thing to d
 
 <p class="caption">Daily pageviews</p>
 
-Stats are fun, and I really enjoy doing some noobie data analysis when I finally have some traffic and data. During the past 6 weeks there have been 33,662 visits. That's more than all my previous blogs combined. Traffic came sporadically, some days were near to just few hunder visitors, while on some more lucky days visitor count reached even 3000-4000.
+Stats are fun, and I enjoy doing some noobie data analysis when I finally have some traffic and data. During the past 6 weeks there have been 33,662 visits. That's more than all my previous blogs combined. Traffic came sporadically, some days were near to just few hunder visitors, while on some more lucky days visitor count reached even 3000-4000.
 
 **Most viewed blog posts**
 
