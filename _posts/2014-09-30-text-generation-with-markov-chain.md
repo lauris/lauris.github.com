@@ -3,6 +3,7 @@ layout: post
 title: "Text generation with Markov chain"
 permalink: /text-generation-markov-chain
 category: programming
+related: ["Bash Productivity Tips", "Servers are fun: Ansible", "Thought-provoking TED talks"]
 ---
 
 [Markov chain](http://en.wikipedia.org/wiki/Markov_chain) is a stateless mathematical model describing a sequence of possible events. Text generation with Markov chains is as old as the model itself. I recently played around with it and it was pretty fun thing to do. I found a Python script that seemed a good start - [shaney.py](http://www.strout.net/info/coding/python/shaney.py). It probably originates from a experiment called [Mark V Shaney](http://en.wikipedia.org/wiki/Mark_V_Shaney), a bot created by Bruce Ellis and Rob Pike. The bot was programmed to post random topics in Usenet newsgroups long time ago. The text was generated from previous topics using Markov chains, often creating quite believable content. 
