@@ -306,11 +306,11 @@ button:hover, input[type=button]:hover, .button:hover {
 }
 .entry pre {
   line-height: 18px;
-  border: 2px solid #ddd;
+  /*border: 2px solid #ddd;*/
   background: #fafafa;
   padding: 10px 12px;
   border-radius: 5px;
-  overflow: scroll;
+  overflow: auto;
 }
 
 /* terminal */
