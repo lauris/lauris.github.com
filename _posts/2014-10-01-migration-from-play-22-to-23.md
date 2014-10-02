@@ -45,4 +45,4 @@ libraryDependencies ++= Seq(
 
 Play 2.3 requires Slick 2.1 instead of 2.0, and it caused another tiny hiccup. Slick has [migration docs](http://slick.typesafe.com/doc/2.1.0/upgrade.html) on their website that are reasonably well structured. I had to remove parentheses from ``list`` methods and change ``where`` to ``filter``, but that was about it. 
 
-Now that I have written this small guide, everything seems pretty basic and straightforward, but in practice it took some time to get everything right. I was surprised when I checked performance after 2.3 upgrade – it seems that the average load time has increased from 20ms to around 50-70ms. This definitely needs more investigation, but I hope that it will be possible to resolve.
+Now that I have written this small guide, everything seems pretty basic and straightforward, but in practice it took some time to get everything right. I was surprised when I checked performance after 2.3 upgrade – it seems that the average load times have increased from 20ms to around 50-70ms. This definitely needs more investigation, but I hope that it will be possible to resolve.
