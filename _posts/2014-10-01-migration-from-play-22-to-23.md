@@ -23,7 +23,7 @@ Also you need to change sbt version in **project/build.properties** file.
 sbt.version=0.13.5
 {% endhighlight %}
 
-Two biggest changes in **build.sbt** file are Scala version and Play auto-plugin. Scala version must be set explicitly, because Play now supports both 2.10 and 2.11 versions of Scala. The second line adds Play as auto-plugin. You should also remove previously needed line ``play.Project.playScalaSettings``. More info about this can be found in the migration docs.
+Two biggest changes in **build.sbt** file are Scala version and Play auto-plugin. Scala version must be set explicitly, because Play now supports both 2.10 and 2.11 versions of Scala. The second line adds Play as auto-plugin. You should also remove a previously needed line ``play.Project.playScalaSettings``. More info about this can be found in the migration docs.
 
 {% highlight scala %}
 scalaVersion := "2.11.2"
