@@ -4,11 +4,12 @@ title: "Migrate Play framework from 2.2 to 2.3"
 permalink: "/scala/migrate-play-framework-2.2-to-2.3"
 category: development
 related: ["The Technology Behind Datazenit: Part 1", "Awesome Scala", "Typesafe's case study about Datazenit", "Scala in Vim"]
+image: /images/blog/play-framework-terminal.png
 ---
 
 I am using Scala and Play framework to build [Datazenit](http://datazenit.com), a web-based database administration tool. Today I decided to upgrade Play framework to the latest stable release. The 2.3 version was already available for some time now, but I wanted to wait a bit to see if there are any problems with it. The latest version of the 2.3 branch is 2.3.4 and it seems to be stable enough.
 
-Play framework has [official docs on migration](https://www.playframework.com/documentation/2.3.x/Migration23) from 2.2 version, but in my particular case the migration didn't went perfectly smooth, and it took some time to get the project working again. If someone happens to be in the same situation, here are some tips. 
+Play framework has [official docs on migration](https://www.playframework.com/documentation/2.3.x/Migration23) from 2.2 version, but in my particular case the migration didn't went perfectly smooth, and it took some time to get the project working again. If someone happens to be in the same situation, here are some tips and a simplified guide to the migration. 
 
 The migrations docs are quite verbose and covers many different topics, but the essential part to upgrade Play framework is to change Play sbt plugin version in **project/plugins.sbt** file.
 
