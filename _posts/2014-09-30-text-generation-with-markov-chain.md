@@ -10,6 +10,8 @@ related: ["Bash Productivity Tips", "Servers are fun: Ansible", "Thought-provoki
 
 <img style="margin:auto;" src="/images/blog/Andrei_Markov.jpg" alt="Andrey Markov">
 
+<!-- more -->
+
 <p class="caption">Markov chain is named after <a href="http://en.wikipedia.org/wiki/Andrey_Markov">Andrey Markov</a>, a Russian mathematician</p>
 
 I modified the code a bit, and most importantly added a check to test generated sentences and parts of the sentences against the whole text to see if there is already a similar sentence or match. Without the check the generated content often seemed repetitive and boring. The code can be seen on GitHub: [markov.py](https://gist.github.com/lauris/3a4cbfa7b156555dd4b0). It doesn't do anything too exciting just yet, just generates a finite amount of random content from a sample text. The size of sample text is an important factor and should be large enough to generate anything interesting.
