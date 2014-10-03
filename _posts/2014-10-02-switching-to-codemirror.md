@@ -24,8 +24,8 @@ To make things even better turns out that there is an undocumented feature in Co
 
 {% highlight js %}
 hintOptions: {
-	tables: {
-		"some_table": ["id", "foo", "bar", "other_column"]
-	}
+  tables: {
+    "some_table": ["id", "foo", "bar"]
+  }
 }
 {% endhighlight %}
