@@ -28,7 +28,7 @@ time solution not something you would do on regular basis. Another solution is
 to use a meta redirect with JavaScript. It is lame, but it is less lame than
 manually migrating comments every time.
 
-Here is a small snippet found here:
+If you just want a quick code snippet that does the redirect, here is one I found in this blog post:
 [GitHub Pages Now Supports HTTPS, So Use It](https://konklone.com/post/github-pages-now-supports-https-so-use-it)
 
 {% highlight js %}
@@ -38,5 +38,5 @@ if ((host == window.location.host) && (window.location.protocol != "https:")) {
 }
 {% endhighlight %}
 
-No matter what I still think that this is a issue Disqus should resolve. I will
+No matter what I still think that this is an issue Disqus should resolve. I will
 try to contact them and see if there is anything they can do about it.
