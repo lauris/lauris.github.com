@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "MySQL in a commercial product"
+title: "Database drivers in a commercial product"
 category: development
-permalink: "/development/mysql-in-commercial-product"
+permalink: "/development/database-drivers-in-commercial-product"
 related: ["Work and open source", "Datazenit Store and Pricing", "The Technology Behind Datazenit: Part 1", "My biggest challenges as a startup founder", "Moving away from the cloud"]
 ---
 
