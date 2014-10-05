@@ -21,6 +21,8 @@ comments. See where this is going? Basically you end up with different groups of
 comments - those who comment on HTTP and and those who comment on HTTPS. And you
 are almost stuck with this.
 
+<!-- more -->
+
 There are two things you can do. Migrate comments at Disqus administration panel
 from http://your_blog_here to https://your_blog_here. I don't know if it works
 just yet, because my migration is not finished, but anyway it is more like one
