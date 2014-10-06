@@ -42,3 +42,5 @@ if ((host == window.location.host) && (window.location.protocol != "https:")) {
 
 No matter what I still think that this is an issue Disqus should resolve. I will
 try to contact them and see if there is anything they can do about it.
+
+**Update:** Disqus staff explained the situation and provided a better solution for the problem. You just need to specify [disqus_identifier](https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables#disqus_identifier) in your Disqus embed code. The identifier must be unique for each blog post.
