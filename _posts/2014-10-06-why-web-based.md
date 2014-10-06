@@ -9,6 +9,8 @@ image: /images/blog/app-chart.jpg
 
 Nowadays we often see software being distributed as web-based applications, especially in the cloud ([SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)). Heck, even my own startup, [Datazenit](https://datazenit.com), is a web-based application, however not currently in the cloud. So what are the benefits of web-based applications over the good old traditional desktop software?
 
+<!-- more -->
+
 ## Convenience
 
 First benefit that comes to mind is convenience. In most cases web-based software does not need installation or configuration, it is really easy to just start using it. I remember the times when I used Windows as a youth and installed all kinds of games and software, and there were often issues, complicated installation steps and I often needed to search for workarounds online to get my apps working. Of course a lot has changed, but web apps are more user friendly in this regard. You do not need to worry about compability or whether your hardware is capable enough to run the app (with exclusions). This is also related to the next benefit.
