@@ -12,6 +12,8 @@ related: [
 
 Yesterday I wrote about [differences between Alter Column commands in MySQL and PostgreSQL](https://lauris.github.io/database/alter-column-differences-between-mysql-postgresql/). To change even a single parameter of a column, MySQL requires the whole definition of column to be specified. I decided to write the definition building login in Scala not SQL. 
 
+<!-- more -->
+
 Scala's pattern matching comes in handy and after a long session of trial and error I had a flexible method to create column definitions for any table. I have also learned about a dozen ways how to not solve this problem.
 
 {% highlight scala %}
