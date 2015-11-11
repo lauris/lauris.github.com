@@ -11,6 +11,8 @@ Finally I got a chance to play with Docker and was pretty satisfied with
 the experience. There are some rough edges, but it didn't lessen my excitement.
 Docker is stable for a few months, currently the latest version is 1.2.
 
+<!-- more -->
+
 I will try to use Docker to run different versions of MySQL and PostgreSQL for
 testing purposes at [Datazenit](https://datazenit.com). Docker was pretty easy to
 setup both on my development MacBook and on a Linux server. Docker offers a
