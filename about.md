@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+custom_title: About Lauris Dzilums
 permalink: /about-lauris-dzilums/
 comments: false
 author_footer: false
@@ -22,4 +23,4 @@ Startups and projects:
 * [Sensei Grid](https://github.com/datazenit/sensei-grid) – open source data grid in JS/HTML
 * [Awesome Scala](https://github.com/lauris/awesome-scala) –  list of useful Scala libraries
 
-You can contact me via [email](mailto:lauris@discuss.lv) or follow me on [Twitter](http://twitter.com/lauriswat), [Github](http://github.com/lauris).
+You can contact me via [email](mailto:lauris@datazenit.com) or follow me on [Twitter](http://twitter.com/lauriswat), [Github](http://github.com/lauris).
