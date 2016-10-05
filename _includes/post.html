@@ -20,7 +20,7 @@
 
   </div>
 
-{% if content and page.related %}
+{% if index != true and content and page.related %}
 <div class="related-posts">
 	<h2>Related Posts</h2>
 	<ul>
@@ -35,7 +35,7 @@
 
 </div>
 
-{% if content and page.author_footer != false %}
+{% if index != true and content and page.author_footer != false %}
 <div class="article-author">
     <div class="avatar">
     <img width="50" height="50" src="https://gravatar.com/avatar/28d7dcf5ee6718ea6de4b077ac3159a7?s=50" alt="{{ post.author }} Avatar"/>
@@ -47,7 +47,7 @@
     </div>
 </div>
 
-{% if page.comments != false %}
+{% if index != true and page.comments != false %}
     {% include disqus.html %}
 {% endif %}
 
