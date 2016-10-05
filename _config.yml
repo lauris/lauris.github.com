@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://lauris.github.io"
 twitter_username: lauriswat
 github_username:  lauris
+theme: minima
 
 # Build settings
 markdown: kramdown
