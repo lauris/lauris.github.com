@@ -1,5 +1,5 @@
 # Site settings
-title: Personal Blog of Lauris Dzilums
+title: Lauris Dzilums
 email: lauris@discuss.lv
 description: "Personal blog about programming, hacking, open-source, startups, git, vim, linux, etc."
 baseurl: ""
@@ -14,3 +14,4 @@ excerpt_separator: "<!-- more -->"
 
 gems:
   - jekyll-sitemap
+
