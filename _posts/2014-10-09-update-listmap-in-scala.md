@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Map order in Scala"
+title: "Map Order in Scala"
 category: scala
 permalink: /map-order-scala
 related: [
@@ -11,7 +11,7 @@ related: [
 ]
 ---
 
-Scala offers several ways to deal with Maps and their order. There is the regular Map that doesn't preserve order of items at all, LinkedHashMap that preserves the order, but is not immutable. Luckily ListMap tries to save the situation. It is an implemenation of immutable maps using a list-based data structure that preserves insertion order. Everything is good until you try to create an updated version of the ListMap. 
+Scala offers several ways to deal with Maps and their order. There is the regular Map that doesn't preserve order of items at all, LinkedHashMap that preserves the order, but is not immutable. Luckily [ListMap](https://www.scala-lang.org/api/2.13.6/scala/collection/immutable/ListMap.html) tries to save the situation. It is an implemenation of immutable maps using a list-based data structure that preserves insertion order. Everything is good until you try to create an updated version of the ListMap. 
 
 <!-- more -->
 
