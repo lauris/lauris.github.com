@@ -22,6 +22,8 @@ fishing after a long day's work or just building stuff for fun.
 
 Startups and projects:
 
+* [Stock Market School & Simulator](https://stockmarketgame.net) – Mobile app to learn about stock market and finance
+* [BitcoinHero](https://bitcoinhero.me) – Free Bitcoin trading simulator
 * [Datazenit](http://datazenit.com) – MySQL and PostgreSQL GUI
 * [Hiburo](https://hiburo.com) – lightweight team management web app
 * [GetSSL.me](https://getssl.me) – reasonably priced SSL certificate store
