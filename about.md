@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-custom_title: Lauris Dzilums
+title: Lauris Dzilums | About
+custom_title: Lauris Dzilums | About
 permalink: /about-lauris-dzilums/
 comments: false
 author_footer: false
