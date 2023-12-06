@@ -20,6 +20,7 @@ Outside of work, I'm an active cyclist, an avid fisherman, and always working on
 
 Startups and projects:
 
+* **[Calmer](https://gocalmer.com/)** – Anxiety and panic attack relief app
 * **[StockMarketGame.net](https://stockmarketgame.net)** – Mobile trading simulator and interactive school to learn about stock market
 * [BitcoinHero](https://bitcoinhero.me) – Free Bitcoin trading simulator
 * [Datazenit](http://datazenit.com) – MySQL and PostgreSQL GUI database tool
