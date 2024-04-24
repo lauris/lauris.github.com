@@ -12,9 +12,7 @@ author_footer: false
 style="float:right;width:30%;max-width:210px;margin-left:15px;"/></a>
 {% endraw %}
 
-Hi, I'm Lauris Dziļums, a software developer with over a decade of experience in building efficient, scalable, and resilient full-stack projects. I enjoy using Scala, JavaScript, Go, and Rust, paired with finely tuned PostgreSQL. I've also done extensive client work using the good old PHP and MySQL but am no longer seeking to return to those days :) I've worked as a backend engineer at several large-scale companies, including one of the largest crypto exchanges in the world. I've built several startups from the ground up and helped others launch their own. I'm also deeply interested in security, penetration testing, operational security, information security, and auditing source code.
-
-Among the several startups I've co-founded, [Datazenit](https://datazenit.com/) and [StockMarketGame.net](https://stockmarketgame.net/) are my favorites. Datazenit is a web-based database tool for MySQL and PostgreSQL, while StockMarketGame.net is a mobile trading simulator that also teaches the fundamentals of the stock market and finance.
+Hi, I'm Lauris Dziļums, a software developer with over a decade of experience in building efficient, scalable, and resilient full-stack projects. I enjoy using Scala, JavaScript, Go, and Rust, paired with a finely tuned PostgreSQL. I've also done extensive client work using the good old PHP and MySQL but am no longer seeking to return to those days :) I've worked as a backend engineer at several large-scale companies, including one of the largest crypto exchanges in the world. I've built several startups from the ground up and helped others launch their own. I'm also deeply interested in security, penetration testing, operational security, information security, and auditing source code.
 
 Startups and projects:
 
