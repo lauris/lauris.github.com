@@ -51,9 +51,9 @@ Emotions are the engine driving our emotions. It doesn't matter if you're buying
 
 They can either be your best friend or your worst enemy, depending on how you handle them.
 
-Take fear, for example. It's a primal instinct that kicks in when we sense danger, like when the market takes a nosedive. Our first instinct is often to panic and sell everything before it's too late.
+[Take fear](https://stockmarketgame.net/8-common-mistakes-to-avoid-as-a-beginner-trader/), for example. It's a primal instinct that kicks in when we sense danger, like when the market takes a nosedive. Our first instinct is often to panic and sell everything before it's too late.
 
-Also, many traders and investors have only ever invested in a bull market. They still haven't faced what a real bear market looks like. 
+Also, many traders and investors have only ever invested in a [bull market](https://stockmarketgame.net/what-is/bull-market/). They still haven't faced what a [real bear market](https://stockmarketgame.net/what-is/bear-market/) looks like. 
 
 There's a well-known saying that everyone is a genius in a bull market. The money is cheap and abundant and people can take more risks. 
 
@@ -71,9 +71,9 @@ Apart from fear and greed, there are also:
 - Hope (being optimistic about trades or future market movements)
 - Frustration (feeling annoyed or irritated when trades don't go as planned or when the market behaves unpredictably)
 
-And don't let me get started on cognitive bias, as it can singlehandedly distort perception, affect judgment, and influence your trading behavior.
+And don't let me get started on [cognitive bias](https://www.simplypsychology.org/cognitive-bias.html), as it can singlehandedly distort perception, affect judgment, and influence your trading behavior.
 
-For instance, you think you're better at trading than you actually are and so you take on too much risk, overleverage, and ignore the facts.
+For instance, you think you're better at trading than you actually are and so you take on too much risk, [overleverage](https://stockmarketgame.net/8-common-mistakes-to-avoid-as-a-beginner-trader/), and ignore the facts.
 
 Or you only pay attention to news and analysis that confirms your beliefs about a stock and you're ignoring all the other information proving you otherwise.  
 
@@ -159,7 +159,7 @@ Everyone was a beginner trader at some point. The key for you is to get to grips
 
 You need to educate yourself about the markets, trading strategies, and risk management techniques because, and I can't stress this enough, preparation and research are crucial for making informed decisions and minimizing your losses.
 
-Next, instead of jumping in with large sums of money, you should start small and focus on managing risk. 
+Next, instead of jumping in with large sums of money, [you should start small](https://stockmarketgame.net/can-i-start-trading-with-100/) and focus on managing risk. 
 
 This means using stop-loss orders, setting realistic profit targets, and only risking a small portion of your capital on each trade.
 
@@ -169,4 +169,4 @@ And lastly, before risking real money, you really should practice trading with s
 
 They allow you to get experience and confidence without the risk of losing money.
 
-Besides, the best trading simulators mimic real-life, real-time trading scenarios and offer you distilled knowledge from the best finance books and courses. They're the perfect gateway to the real thing. 
+Besides, [the best trading simulators](https://stockmarketgame.net/) mimic real-life, real-time trading scenarios and offer you distilled knowledge from the best finance books and courses. They're the perfect gateway to the real thing. 
