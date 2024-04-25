@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Psychology of Decision-Making (For Beginner Traders)"
-category: development
+category: trading
 permalink: /psychology-of-decision-making-for-beginner-traders
 related: ["Moving away from the cloud", "Bash Productivity Tips", "The
 Technology Behind Datazenit: Part 1"]
