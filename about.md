@@ -12,9 +12,15 @@ author_footer: false
 style="float:right;width:30%;max-width:210px;margin-left:15px;"/></a>
 {% endraw %}
 
-Hi, I'm Lauris Dziļums, a software developer with over a decade of experience in building efficient, scalable, and resilient full-stack projects. I enjoy using Scala, JavaScript, Go, and Rust, paired with a finely tuned PostgreSQL. I've also done extensive client work using the good old PHP and MySQL but am no longer seeking to return to those days :) I've worked as a backend engineer at several large-scale companies, including one of the largest crypto exchanges in the world. I've built several startups from the ground up and helped others launch their own. I'm also deeply interested in security, penetration testing, operational security, information security, and auditing source code.
+Hi, I’m Lauris Dziļums, a full-stack software developer with over ten years of experience.
+I enjoy building reliable, scalable systems based on simple, solid principles.
+I love working with Scala, JavaScript/TypeScript, Go, and Rust, usually alongside PostgreSQL.
 
-Startups and projects:
+In earlier years, I did quite a bit of client work with PHP and MySQL (the good old dog days).
+
+I’ve worked on engineering teams at large-scale companies, including a major crypto exchange, and have also built a few startups.
+
+Startups and projects I’m proud of:
 
 * **[Calmer](https://gocalmer.com/)** – Anxiety and panic attack relief app
 * **[StockMarketGame.net](https://stockmarketgame.net)** – Mobile trading simulator and interactive school to learn about stock market
@@ -25,9 +31,10 @@ Startups and projects:
 * Hiburo – Lightweight team management web app (deprecated)
 * GetSSL.me – The fastest way to get SSL certificates for a reasonable price (deprecated)
 
-You can contact me via email at lauris [at] discuss.lv
-I am also on
+You can contact me via email at lauris [@] discuss.lv or feel free to connect with me on these platforms:
 [Twitter](http://twitter.com/lauriswat),
 [Github](http://github.com/lauris),
 [LinkedIn](https://www.linkedin.com/in/laurisdzilums),
-[Instagram](https://www.instagram.com/laurisdzilums/).
+[Instagram](https://www.instagram.com/laurisdzilums/),
+[ProductHunt](https://www.producthunt.com/@lauriswat),
+[IndieHackers](https://www.indiehackers.com/lauris/).
